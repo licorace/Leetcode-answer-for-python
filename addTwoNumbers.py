@@ -67,3 +67,31 @@ if __name__ == '__main__':
     l2 = l2.next
     s = Solution()
     s.addTwoNumbers(l1,l2)
+    
+    
+   #Solution函数的简化版本
+class Solution(object):
+    def addTwoNumbers(self, l1, l2):
+        """
+        :type l1: ListNode
+        :type l2: ListNode
+        :rtype: ListNode
+        """
+        carry = 0
+        dummy = ListNode(0);
+        p = dummy
+        
+        while (l1 or l2):
+            x = l1.val if l1 else 0
+            y = l2.val if l2 else 0
+            s = x + y +carry
+            carry = s // 10
+            p.next = ListNode(s%10)
+            p = p.next
+            if(l1!=None):l1 = l1.next
+            if(l2!=None):l2 = l2.next
+                
+        if carry == 1:
+            p.next = ListNode(1)
+            
+        return dummy.next
