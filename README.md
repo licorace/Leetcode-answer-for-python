@@ -7,4 +7,4 @@
 
 7.第七题，整数反转 [reverse.py](https://github.com/Blacksheep1995/Leetcode-answer-python-/blob/master/reverse.py)
 
-9.第九题，回文数[isPalindrome.py]()
+9.第九题，回文数[isPalindrome.py](https://github.com/Blacksheep1995/Leetcode-answer-python-/blob/master/isPalindrome.py)
