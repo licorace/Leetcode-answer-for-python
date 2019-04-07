@@ -37,4 +37,13 @@ class Solution:
 #再加上倒数第二位数字，1 * 10 + 2 = 12，就得到了我们想要的反转后的数字。 如果继续这个过程，我们将得到更多位数的反转数字。
 #现在的问题是，我们如何知道反转数字的位数已经达到原始数字位数的一半？
 #我们将原始数字除以 10，然后给反转后的数字乘上 10，所以，当原始数字小于反转后的数字时，就意味着我们已经处理了一半位数的数字。
+class Solution:
+     def isPalindrome(self, x: 'int') -> 'bool':
+        if x < 0 or (x % 10 == 0 and x != 0):
+            return False
+        rev_number = 0
+        while(x > rev_number):
+            rev_number = rev_number * 10 + x % 10
+            x = x //10
+        return x == rev_number or x == rev_number//10
 
