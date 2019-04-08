@@ -18,3 +18,5 @@
 21.第二十一题，合并两个有序链表[mergeTwoLists.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/mergeTwoLists.py)
 
 26.第二十六题，删除排序数组中的重复项[removeDuplicates.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/removeDuplicates.py)
+
+27.第二十七题，移除元素[removeElement.py]()
