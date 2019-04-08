@@ -11,4 +11,4 @@
 
 13.第十三题，罗马数字转整数[romanToInt.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/romanToInt.py)
 
-14.第十四题，最长公共前缀[longestCommonPrefix.py]()
+14.第十四题，最长公共前缀[longestCommonPrefix.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/longestCommonPrefix.py)
