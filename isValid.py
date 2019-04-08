@@ -27,7 +27,7 @@ class Solution(object):
         mapping = {")": "(", "}": "{", "]": "["}
         for char in s:
             if char in mapping:
-                top_element = stack.pop() if stack else 88
+                top_element = stack.pop() if stack else 88 # else 88随便写的，凑个条件
                 if mapping[char] != top_element:
                     return False
             else:
