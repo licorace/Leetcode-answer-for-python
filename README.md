@@ -19,4 +19,4 @@
 
 26.第二十六题，删除排序数组中的重复项[removeDuplicates.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/removeDuplicates.py)
 
-27.第二十七题，移除元素[removeElement.py]()
+27.第二十七题，移除元素[removeElement.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/removeElement.py)
