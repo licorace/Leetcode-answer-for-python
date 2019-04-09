@@ -24,3 +24,5 @@
 28.第二十八题，实现strStr()[strStr.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/strStr.py)
 
 35.第三十五题，搜索插入位置[searchInsert.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/searchInsert.py)
+
+38.第三十八题，报数[countAndSay.py]()
