@@ -28,3 +28,5 @@
 38.第三十八题，报数[countAndSay.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/countAndSay.py)
 
 53.第五十三题，最大子序和，动态规划加遍历[maxSubArray.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/maxSubArray.py)
+
+58.最后一个单词的长度，[lengthOfLastWord.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/lengthOfLastWord.py)
