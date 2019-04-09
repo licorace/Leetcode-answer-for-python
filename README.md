@@ -26,3 +26,5 @@
 35.第三十五题，搜索插入位置[searchInsert.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/searchInsert.py)
 
 38.第三十八题，报数[countAndSay.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/countAndSay.py)
+
+53.第五十三题，最大子序和，动态规划加遍历[maxSubArray.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/maxSubArray.py)
