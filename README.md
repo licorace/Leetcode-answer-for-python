@@ -37,6 +37,6 @@
 
 69.第六十九题，x的平方根,二分法，牛顿迭代法[mySqrt.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/mySqrt.py)
 
-70.第七十题，爬楼梯，动态规划或斐波那契[climbStairs.py]https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/climbStairs.py)
+70.第七十题，爬楼梯，动态规划或斐波那契[climbStairs.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/climbStairs.py)
 
 83.八十三题，删除排序链表中的重复元素[deleteDuplicates.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/deleteDuplicates.py)
