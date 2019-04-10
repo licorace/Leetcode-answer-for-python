@@ -15,3 +15,12 @@ class Solution:
             else:
                 return mid       #如果mid的平方恰好等于x，那恭喜我们找到了
         return low-1             #如果没有找到正好相等的值，只能把最逼近的低值输出，由于之前低值是mid加了一的，故这里减去1
+#牛顿迭代法：
+class Solution:
+    def mySqrt(self, x: int) -> int: 
+        if x <= 1:
+            return x
+        r = x
+        while r * r > x:
+            r = int((r+x/r)/2)              #这一步是根据牛顿迭代法推出来的，具体可看上面的参考博客
+        return r
