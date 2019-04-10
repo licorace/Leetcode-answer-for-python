@@ -13,7 +13,7 @@
 
 14.第十四题，最长公共前缀[longestCommonPrefix.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/longestCommonPrefix.py)
 
-20.第二十题，有效的括号[isValid.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/isValid.py)
+20.第二十题，有效的括号,可以用栈[isValid.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/isValid.py)
 
 21.第二十一题，合并两个有序链表[mergeTwoLists.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/mergeTwoLists.py)
 
