@@ -10,12 +10,12 @@ class Solution:
         pre=None
         s=set()
         while cur !=None:
-            if cur.val not in s:
+            if cur.val not in s:    #集合s中不含有当前节点的值
                 s.add(cur.val)      #将当前节点的值存入集合s中
                 pre =cur
-                cur=cur.next
+                cur=cur.next        #指向下一个节点
             else:                   #集合s中含有当前节点的值
-                pre.next=cur.next    #跳过当前节点，也可理解为找到重复的节点并删除
+                pre.next=cur.next    #跳过当前节点，也可理解为找到重复的节点并删除，即指向下下一个节点
                 cur=cur.next
            
         return head
