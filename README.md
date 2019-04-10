@@ -3,7 +3,7 @@
 
 1.第一题，两数之和 [twoSum.py](https://github.com/Blacksheep1995/Leetcode-answer-python-/blob/master/twoSum.py) 
 
-2.第二题，两数相加，这是一道链表题，[addTwoNumbers.py](https://github.com/Blacksheep1995/Leetcode-answer-python-/blob/master/addTwoNumbers.py)
+2.第二题，两数相加，这是一道链表题[addTwoNumbers.py](https://github.com/Blacksheep1995/Leetcode-answer-python-/blob/master/addTwoNumbers.py)
 
 7.第七题，整数反转 [reverse.py](https://github.com/Blacksheep1995/Leetcode-answer-python-/blob/master/reverse.py)
 
@@ -29,4 +29,6 @@
 
 53.第五十三题，最大子序和，动态规划加遍历[maxSubArray.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/maxSubArray.py)
 
-58.最后一个单词的长度，[lengthOfLastWord.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/lengthOfLastWord.py)
+58.第五十八题，最后一个单词的长度，[lengthOfLastWord.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/lengthOfLastWord.py)
+
+66.第六十六题，加一[plusOne.py](https://github.com/Blacksheep1995/Leetcode-answer-for-python/blob/master/plusOne.py)
