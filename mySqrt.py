@@ -1,4 +1,5 @@
 #二分法
+#参考网址：https://www.cnblogs.com/qlky/p/7735145.html
 class Solution:
     def mySqrt(self, x: int) -> int:
         if x == 1 or x == 0:
