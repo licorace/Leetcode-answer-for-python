@@ -1,3 +1,4 @@
+#用到了递归，若p，q一直相等，那么最终p，q都会为0，那么则会返回False，返回True的条件是每个左右叶节点都相等。
 class Solution:
     def isSameTree(self, p: TreeNode, q: TreeNode) -> bool:
         if not p and not q:       #如果p和q都是空树，返回True
